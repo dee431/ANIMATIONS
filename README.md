@@ -1,7 +1,8 @@
 # ANIMATIONS
 <img width="154" height="142" alt="image" src="https://github.com/user-attachments/assets/7397a17d-cca2-4923-bfd1-a31c2da93666" />
-<img width="61" height="114" alt="image" src="https://github.com/user-attachments/assets/ce59843f-586e-4d03-aff3-8af54ae7071f" />
+<img width="200" height="114" alt="image" src="https://github.com/user-attachments/assets/ce59843f-586e-4d03-aff3-8af54ae7071f" />
 <img width="335" height="522" alt="image" src="https://github.com/user-attachments/assets/a8a22b8f-c00b-4c0f-af7d-c786f68b6c80" />
+<img width="244" height="194" alt="image" src="https://github.com/user-attachments/assets/a9f76c0c-515d-4cfa-af80-2cd21f6f0ac5" />
 
 # 🚀 3D GitHub Animation | The Future of Creative Coding
 
